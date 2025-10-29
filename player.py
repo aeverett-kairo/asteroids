@@ -1,4 +1,4 @@
-from circleshape import *
+from circleshape import CircleShape
 from constants import PLAYER_RADIUS
 import pygame
 
